@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <vertx.version>3.9.0</vertx.version>
+        <vertx.version>3.9.4</vertx.version>
         <vertx-maven-plugin.version>1.0.13</vertx-maven-plugin.version>
     </properties>
 
